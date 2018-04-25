@@ -8,5 +8,6 @@ public class SpringbootUploadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootUploadApplication.class, args);
+		System.out.println("test");
 	}
 }
